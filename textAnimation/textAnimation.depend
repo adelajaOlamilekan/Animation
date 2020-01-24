@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579697755 source:c:\users\abdul qowiyyu\desktop\solved programming challenges\textanimation\main.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	<cstdlib>
+	<windows.h>
+
